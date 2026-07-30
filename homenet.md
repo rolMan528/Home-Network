@@ -24,6 +24,16 @@
 Note: No network segmentation or subnets yet, to be done in the  near future.
 No server yet, server setup and configuration still ongoing
 
+## Devices
+
+Modem - The connection point from the ISP fiber connection to the internal router. Provides fiber cable interface and Ethernet interfaces.
+
+Mini-PC - Installed with OPNSense to serve as the router and firewall. It also serves as a DHCP and DNS server.
+
+Cisco switch - Serves as the central connection for the wired end devices and access point. Has the POE feature to supply power to connected devices
+
+Wireless Access Point - provides end devices with wireless connection to the network
+
 ## Network Device Inventory
 
 | Device | Information |
@@ -42,5 +52,8 @@ UniFi Network Server - used to manage the wireless access point and the connecte
 
 ## Revision History
 
-homenet version 1.0
+| Version | Changes |
+| ------- | ------- |
+| version 1.0 | Initial document |
+| version 1.1 | added Devices section |
 
