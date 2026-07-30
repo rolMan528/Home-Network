@@ -12,7 +12,7 @@ Network Addressing Information
 
 Devices
 
-Network Device Information
+Network Device Inventory
 
 Network Services
 
