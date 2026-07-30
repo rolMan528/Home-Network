@@ -4,16 +4,16 @@ This is a technical documentation of my home network. This is as part of my assi
 
 ## Table of Contents
 
-Physical Network Topology
+Physical Network Topology - shows the location and the physical connection of devices
 
-Logical Network Topology
+Logical Network Topology - shows how the devices are communicate
 
-Network Addressing Information
+Network Addressing Information - show the IP address of the devices
 
-Devices
+Devices - Enumerates the network devices and their purpose in the network
 
-Network Device Inventory
+Network Device Inventory - detailed information and specifications of the devices 
 
-Network Services
+Network Services - services implemented in the network
 
-Revision History
+Revision History - list of revisions for the document
