@@ -5,9 +5,15 @@ This is a technical documentation of my home network. This is as part of my assi
 ## Table of Contents
 
 Physical Network Topology
+
 Logical Network Topology
+
 Network Addressing Information
+
 Devices
+
 Network Device Information
+
 Network Services
+
 Revision History
